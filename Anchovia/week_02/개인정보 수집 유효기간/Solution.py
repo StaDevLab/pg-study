@@ -1,8 +1,9 @@
-def solution(today, terms, privacies):
-    answer = []
-    def change_days(date):
+def change_days(date):
         y, m, d = map(int, date.split("."))
         return y * 12 * 28 + m * 28 + d
+
+def solution(today, terms, privacies):
+    answer = []
     
     term_dict = {}
     for term in terms:
