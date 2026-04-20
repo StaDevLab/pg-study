@@ -3,7 +3,7 @@ from collections import deque
 def solution(priorities, location):
     answer = 0
 
-    # 파이썬에서 queue를 쓰려면 deque를 사용합니다.
+    # 파이썬에서 queue를 쓰려면 deque를 사용함
     queue = deque()
     # (우선순위, idx)로 큐에 저장
     for idx, priority in enumerate(priorities):
