@@ -1,7 +1,7 @@
 # PG-Study
 코딩 테스트 준비를 위한 스터디입니다.
 
-- 기간 : 2026/04/01 ~ 
+- 기간 : 2026/04/01 ~ 2026/07/29
 - 정기 회의 : 매주 수요일 9시
 - 문제 : [프로그래머스 (Programmers)](https://school.programmers.co.kr/learn/challenges?order=recent)
 
